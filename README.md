@@ -2,7 +2,7 @@
 
  ## Creador del repositorio: Víctor Liendo
 
-Bettina (Alfa)
-Samuel (Bravo)
-Victor (Charlie)
-Eduardo Valles (Delta)
+- Bettina (Alfa)
+- Samuel (Bravo)
+- Victor (Charlie)
+- Eduardo Valles (Delta)
